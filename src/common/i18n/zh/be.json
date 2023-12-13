@@ -1,0 +1,22 @@
+{
+    "ERR": {
+        "NOT_FOUND": "{obj}未找到",
+        "BAD_REQUEST": "验证失败{obj}",
+        "FORBIDDEN_REQUEST": "无法完成此请求{obj}",
+        "FORBIDDEN": "您无权执行此操作{obj}",
+        "UNAUTHORIZED": "会话已过期",
+        "TOO_MANY_REQUESTS": "Please wait for the timeout before retrying",
+        "DEFAULT": "出问题了..."
+    },
+    "MSG": {
+        "INCORRECT_TOKEN": "密钥不正确",
+        "INCORRECT_EMAIL": "不正确的电子邮件",
+        "NOT_ENOUGH_COLUMNS_IN_FILE": "文件列数不够，应含有{obj}列",
+        "INVALID_TOKEN": "令牌无效",
+        "FORBIDDEN_RESOURCE": "无法访问相关资源",
+        "USER": "用户",
+        "ROLE": "该角色",
+        "EMAIL": "电子邮件",
+        "NOT_SUPPORTED_FILE": "不支持的文件类型"
+    }
+}

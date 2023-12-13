@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<%- include('./partials/head'); %>
+
+<body class="container">
+
+  <%- include('./partials/header'); %>
+
+  <main>
+    <div class="container">
+      <div class="row mt-5">
+        <div class="col-md-6 m-auto">
+          <div class="card card-body text-center">
+
+            <%- include('./partials/logo'); %>
+            
+            <p>Login to an existing account or register</p>
+            <a href="/sign-in" class="btn btn-primary btn-block">Sign In</a>
+            <a href="/sign-up" class="btn btn-secondary btn-block mb-2">Sign Up</a>
+          </div>
+          <div class="card-body text-center">
+            <h2>NU SHO</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <%- include('./partials/footer'); %>
+
+</body>
+
+</html>

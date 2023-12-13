@@ -1,0 +1,11 @@
+{
+  "ERRORS": {
+    "NOT_FOUND": "订单跟踪"
+  },
+  "BUTTONS": {
+    "EXPORT_DATA": "导出数据",
+    "SAVE": "保存",
+    "CANCEL": "取消",
+    "LOGOUT": "登出"
+  }
+}

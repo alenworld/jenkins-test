@@ -1,0 +1,24 @@
+{
+    "ERR": {
+        "NOT_FOUND": "{obj} not found",
+        "BAD_REQUEST": "Validation failed: {obj}",
+        "FORBIDDEN_REQUEST": "Forbidden request: {obj}",
+        "FORBIDDEN": "You are not authorized for this action {obj}",
+        "UNAUTHORIZED": "Session expired",
+        "TOO_MANY_REQUESTS": "Please wait for the timeout before retrying",
+        "CONFLICT": "Conflicting values: {obj}",
+        "DEFAULT": "Something went wrong..."
+    },
+    "MSG": {
+        "LITERAL": "{obj}",
+        "INCORRECT_TOKEN": "Incorrect token",
+        "INCORRECT_EMAIL": "Incorrect email",
+        "NOT_ENOUGH_COLUMNS_IN_FILE": "Not enough columns in file, expected: {obj}",
+        "INVALID_TOKEN": "Invalid token",
+        "FORBIDDEN_RESOURCE": "Forbidden resource",
+        "USER": "User",
+        "ROLE": "Role",
+        "EMAIL": "Email",
+        "NOT_SUPPORTED_FILE": "Not supported file type"
+    }
+}

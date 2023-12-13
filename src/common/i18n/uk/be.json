@@ -1,0 +1,24 @@
+{
+  "ERR": {
+    "NOT_FOUND": "{obj} не знайдено",
+    "BAD_REQUEST": "Валідація не пройшла: {obj}",
+    "FORBIDDEN_REQUEST": "Заборонений запит: {obj}",
+    "FORBIDDEN": "Ви не авторизовані для цієї дії {obj}",
+    "UNAUTHORIZED": "Сеанс закінчився",
+    "TOO_MANY_REQUESTS": "Перш ніж спробувати знов, зачекайте деякий час",
+    "CONFLICT": "Конфлікт значень: {obj}",
+    "DEFAULT": "Щось пішло не так..."
+  },
+  "MSG": {
+    "LITERAL": "{obj}",
+    "INCORRECT_TOKEN": "Невірний token",
+    "INCORRECT_EMAIL": "Невірний email",
+    "NOT_ENOUGH_COLUMNS_IN_FILE": "Недостатньо стовпців у файлі, очікується: {obj}",
+    "INVALID_TOKEN": "Недійсний токен",
+    "FORBIDDEN_RESOURCE": "Заборонений ресурс",
+    "USER": "Користувач",
+    "ROLE": "Роль",
+    "EMAIL": "Електронна пошта",
+    "NOT_SUPPORTED_FILE": "Тип файлу не підтримується"
+  }
+}

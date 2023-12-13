@@ -1,0 +1,11 @@
+{
+  "ERRORS": {
+    "NOT_FOUND": "Not Found"
+  },
+  "BUTTONS": {
+    "EXPORT_DATA": "Export Data",
+    "SAVE": "Save",
+    "CANCEL": "Cancel",
+    "LOGOUT": "Logout"
+  }
+}
